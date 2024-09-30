@@ -1,0 +1,5 @@
+first couple of small programs written and uploaded to github. 
+
+python {fileName.py} is used to run the program in the terminal. 
+
+ctrl f5 is used to run also. without debugging. 9+
